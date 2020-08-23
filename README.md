@@ -10,4 +10,4 @@ I ❤ Open Source. I love [Vim](https://www.vim.org/), [Tmux](https://github.com
 * Recently picked up [Rust](https://rustlang.org)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderjeurissen&hide=php)
-![Stats](https://github-readme-stats.vercel.app/api?username=alexanderjeurissen&show_icons=true&count_private=true&line_height=40)
+![Stats](https://github-readme-stats.vercel.app/api?username=alexanderjeurissen&show_icons=true&count_private=true&line_height=35)
