@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/alexanderjeurissen?label=Follow&style=social)](https://github.com/alexanderjeurissen)
 
-I ❤ Open Source. I love [Vim](https://www.vim.org/), [Tmux](https://github.com/tmux/tmux), dotfiles and spend most of my live inside a terminal 🙈.
+I ❤ Open Source. I love [Vim](https://www.vim.org/), [Tmux](https://github.com/tmux/tmux), dotfiles and spend most of my life typing away in a terminal 🙈.
 
 * Software engineer at [HackerOne](https://github.com/hacker0x01)
 * Author of [ranger-devicons](https://github.com/alexanderjeurissen/ranger-devicons)
