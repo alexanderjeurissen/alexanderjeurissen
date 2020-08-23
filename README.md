@@ -9,5 +9,5 @@ I ❤ Open Source. I love [Vim](https://www.vim.org/), [Tmux](https://github.com
 * Author of several Tmux plugins such as [tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock), [Tmux-process-indicator](https://github.com/alexanderjeurissen/tmux-process-indicator), and more..
 * Recently picked up [Rust](https://rustlang.org)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderjeurissen&hide=php,java)
-![Stats](https://github-readme-stats.vercel.app/api?username=alexanderjeurissen&show_icons=true&count_private=true&line_height=34)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderjeurissen&hide=php,java,html,markdown)
+![Stats](https://github-readme-stats.vercel.app/api?username=alexanderjeurissen&show_icons=true&count_private=true&line_height=40)
